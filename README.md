@@ -29,12 +29,14 @@ Here are some ideas to get you started:
     />
   </a>
 <!--   <a rel="me" href="https://cloud-native.social/@omBratteng">
-    <img
+    <img 
       src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
       alt="Cloud Native Mastodon"
     />
   </a> -->
 
   <a href="https://app.daily.dev/Rupesh23" target="_blank">
-  <img src="https://api.daily.dev/devcards/a012cac2dcbd4abe86d668c4ac703693.png?r=mzd" width="400" alt="Rupesh Shah's Dev Card"/></a>
+  <img  width="256"
+      align="right" 
+      src="https://api.daily.dev/devcards/a012cac2dcbd4abe86d668c4ac703693.png?r=mzd" width="400" alt="Rupesh Shah's Dev Card"/></a>
 </div>
